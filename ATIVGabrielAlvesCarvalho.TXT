@@ -1,0 +1,16 @@
+1:a diferença entre variavel e constante e que variavel mede a temperatura e o constante pode ser usado para medir uma temperatura especifica
+
+2:a função do comando leia e para receber informação ou valores. o inteiro serve para numeros inteiros, real para numeros quebrados e cadeia
+para textos.
+
+3:como funciona o operadore logicos "e" serve para dois ou mais lados, o operador "ou" serve para definir opçoes de valores e o "não" serve
+como o não normal..
+
+4:a estrutura de repetição e definida pela palavra enquanto.
+
+5:a diferença pratica entre enuqnato e para e que enquanto serve para reptição e para e uma repteção automatica que pode ser definido o
+inicio, o fim e o quanto você quer que o valor suba ou desça.
+
+6:o risco do loop infinito e travar.
+
+7: o operador modulo(%) pega o resto do resultado da divisão e a divisão inteira(/) e o resultado da divisão inteira 
