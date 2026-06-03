@@ -14,3 +14,9 @@ inicio, o fim e o quanto você quer que o valor suba ou desça.
 6:o risco do loop infinito e travar.
 
 7: o operador modulo(%) pega o resto do resultado da divisão e a divisão inteira(/) e o resultado da divisão inteira 
+
+8:a indentação do codigo e informar oque que e
+
+9:o "se" e pra receber um valor desejado e o "senao" serve para quando o valor não e recebido
+
+10:
