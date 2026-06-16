@@ -1,0 +1,12 @@
+programa {
+  funcao inicio() {
+   inteiro i
+   escreva("Contagem regressiva: \n")
+   
+   para(i=10; i>=1; i--)
+   {
+    escreva(i, "\n")
+   }
+   escreva("IGNIÇAO!")
+   }
+}
