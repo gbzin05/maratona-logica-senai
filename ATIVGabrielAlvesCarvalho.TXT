@@ -15,8 +15,8 @@ inicio, o fim e o quanto você quer que o valor suba ou desça.
 
 7: o operador modulo(%) pega o resto do resultado da divisão e a divisão inteira(/) e o resultado da divisão inteira 
 
-8:a indentação do codigo e informar oque que e
+8:ela é essencial para que todos colaboradores possa entender como é para o codigo funcionar.
 
 9:o "se" e pra receber um valor desejado e o "senao" serve para quando o valor não e recebido
 
-10:
+10:para dizer o que foi mudado em um codigo caso algum problema ocorra após a alteração.
